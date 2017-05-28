@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Collection_Of_Monsters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Monsters>
+    <Monster Visual_Monster_Name="Bob" Monster_Fighting_HitPoints="10" How_Much_XP_Drops="92.44" Is_Monster_Scary="true" Monster_Fighting_Type="steel" />
+    <Monster Visual_Monster_Name="Jim" Monster_Fighting_HitPoints="20" How_Much_XP_Drops="10" Is_Monster_Scary="false" Monster_Fighting_Type="steel" />
+    <Monster Visual_Monster_Name="Fred" Monster_Fighting_HitPoints="100" How_Much_XP_Drops="3938.292" Is_Monster_Scary="true" Monster_Fighting_Type="fire" />
+    <Monster Visual_Monster_Name="Cow" Monster_Fighting_HitPoints="10000" How_Much_XP_Drops="1" Is_Monster_Scary="true" Monster_Fighting_Type="grass" />
+    <Monster Visual_Monster_Name="Ice Queen" Monster_Fighting_HitPoints="200" How_Much_XP_Drops="9.372" Is_Monster_Scary="false" Monster_Fighting_Type="ice" />
+    <Monster Visual_Monster_Name="Grenadier" Monster_Fighting_HitPoints="50" How_Much_XP_Drops="8047.37" Is_Monster_Scary="true" Monster_Fighting_Type="water" />
+    <Monster Visual_Monster_Name="Earth Demon" Monster_Fighting_HitPoints="84" How_Much_XP_Drops="92.83" Is_Monster_Scary="false" Monster_Fighting_Type="ground" />
+    <Monster Visual_Monster_Name="Mac" Monster_Fighting_HitPoints="100" How_Much_XP_Drops="54.43" Is_Monster_Scary="true" Monster_Fighting_Type="poison" />
+  </Monsters>
+</Collection_Of_Monsters>
